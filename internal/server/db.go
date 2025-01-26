@@ -6,7 +6,6 @@ import (
 	"math/rand"
 	"sync"
 
-	_ "github.com/mattn/go-sqlite3"
 	"github.com/vrnvu/temp/pkg/quiz"
 )
 
