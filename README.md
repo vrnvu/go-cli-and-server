@@ -1,3 +1,9 @@
+# Screens
+<img width="1260" alt="Screenshot 2025-01-26 at 12 37 44" src="https://github.com/user-attachments/assets/094cd371-a9f9-43c5-8de5-08178e6c28bc" />
+<img width="1247" alt="Screenshot 2025-01-26 at 12 37 54" src="https://github.com/user-attachments/assets/87adcfa0-9bd9-4c9a-b459-a52ed0f498ab" />
+<img width="1224" alt="Screenshot 2025-01-26 at 12 37 50" src="https://github.com/user-attachments/assets/7b9d67e8-f65e-4526-9b30-2bcd106735d9" />
+
+
 # Comments
 
 - I invested around 3h. So I had to make some trade-offs.
